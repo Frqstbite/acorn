@@ -1,0 +1,12 @@
+{
+    "ribbon.file.new": "New",
+    "ribbon.file.open": "Open",
+    "ribbon.file.save": "Save",
+    "ribbon.file.saveas": "Save As",
+    "ribbon.file.exit": "Exit",
+
+    "tooltip.ribbon.file.new": "Create a new empty map file",
+    "tooltip.ribbon.file.open": "Open a map file",
+    "tooltip.ribbon.file.save": "Save the current map file",
+    "tooltip.ribbon.file.saveas": "Save the current map file at a new location"
+}
